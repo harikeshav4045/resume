@@ -1,0 +1,25 @@
+body{
+  background-image:url("b4.jpg");
+
+  background-size: cover;
+
+
+
+}
+
+p1{
+color: firebrick
+}
+p2{
+  color: green
+}
+table{
+  border-color:dark-grey;
+  border-style:dashed;
+
+
+}
+H1{
+  text-align: center;
+  color: MAROON;
+}
